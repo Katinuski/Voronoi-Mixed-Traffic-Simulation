@@ -25,26 +25,26 @@ These dynamic demonstrations highlight the model's ability to generate realistic
 
 This simulation illustrates the self-organizing phenomenon where an initially mixed flow of pedestrians with opposing destinations spontaneously separates into distinct, unidirectional lanes. This emergent behavior is a key indicator of realistic pedestrian dynamics (see **Section 4.2** in our paper).
 
-  ![Lane Formation GIF](demos/lane_formation_0.gif) 
-  ![Lane Formation GIF](demos/lane_formation_1.gif) 
+  ![Lane Formation GIF](lane_formation_0.gif) 
+  ![Lane Formation GIF](lane_formation_1.gif) 
 
 ### 2. High-Density Pedestrian Evacuation (Bottleneck Effect)
 
 This scenario demonstrates the model's performance under extreme density conditions, such as pedestrian evacuation through a narrow bottleneck. It accurately reproduces the classic "arching effect" and complex lateral avoidance behaviors observed in real-world experiments (detailed in **Appendix D** of our paper).
 
-![High-Density Evacuation GIF](demos/evacuation_bottleneck.gif)
+![High-Density Evacuation GIF](evacuation_bottleneck.gif)
 
 ### 3. Vehicle Obstacle Avoidance (Double Lane Change Maneuver)
 
 This demonstration showcases a self-navigating vehicle performing a double lane change maneuver to avoid fixed obstacles. It validates the model's capability to generate kinematically realistic and collision-free vehicle trajectories in constrained environments (as discussed in **Section 4.3** of our paper).
 
-![Vehicle Obstacle Avoidance GIF](demos/vehicle_obstacle_avoidance.gif)
+![Vehicle Obstacle Avoidance GIF](vehicle_obstacle_avoidance.gif)
 
 ### 4. Heterogeneous Interactions at Intersections
 
 This complex scenario highlights dynamic interactions between vehicles and pedestrians at an intersection. The model accurately captures heterogeneous negotiation behaviors, such as vehicles yielding to pedestrians and pedestrians adjusting their paths dynamically, reflecting the model's utility for simulating diverse mixed traffic conditions for AV testing (evaluated in **Sections 5.1 and 5.2** of our paper).
 
-![Vehicle-ped Intersection Interaction GIF](demos/Car_ped_interaction.gif)
+![Vehicle-ped Intersection Interaction GIF](Car_ped_interaction.gif)
 
-![Vehicle-bike Intersection Interaction GIF](demos/Car_Cyclist_Interaction.gif)
+![Vehicle-bike Intersection Interaction GIF](Car_Cyclist_Interaction.gif)
 ---
